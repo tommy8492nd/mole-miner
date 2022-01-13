@@ -1,5 +1,5 @@
 ﻿using UnityEngine;
-using Harmony;
+using HarmonyLib;
 
 namespace Mole_Miner
 {
